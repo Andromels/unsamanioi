@@ -13,10 +13,10 @@ function App() {
           <h3>ANDROMEL RAMIREZ</h3>
         </div>
         <div className='links'>
-        <a href='#'>Home</a>
-        <a href='#'>About Us</a>
-        <a href='#'>Services</a>
-        <a href='#'>Why</a>
+        <a href='#home'>Home</a>
+        <a href='#aboutus'>About Us</a>
+        <a href='#services'>Services</a>
+        <a href='#why'>Why</a>
         </div>
       </header>
       <section className='gallery'>
@@ -39,7 +39,7 @@ function App() {
       </section>
       <div className="footer">
       <div className="bottom_text">
-        <p>Copyright © 2021 <a href="#">ANDROMEL RAMIREZ</a>All rights reserved</p>
+        <p>Copyright © 2023 <a href="#">ANDROMEL RAMIREZ</a>All rights reserved</p>
         <div class="policy_terms">
           <a href="#">Privacy policy</a>
           <a href="#">Terms & condition</a>
