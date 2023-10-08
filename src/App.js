@@ -21,8 +21,7 @@ function App() {
       </header>
       <section className='gallery'>
         <h1>PAST WORKS</h1>
-        <p>I decide and there's nothing you can do but die.
-          "You Pay, I just sleep all damn day"
+        <p>"A fresh perspective for potential clients"
         </p>
       </section>
       <section className='sec1'> 
@@ -38,10 +37,15 @@ function App() {
        <img src={pic3}/>
        </div>
       </section>
-      <section className='footer'>
-      
-
-      </section>
+      <div className="footer">
+      <div className="bottom_text">
+        <p>Copyright © 2021 <a href="#">ANDROMEL RAMIREZ</a>All rights reserved</p>
+        <div class="policy_terms">
+          <a href="#">Privacy policy</a>
+          <a href="#">Terms & condition</a>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

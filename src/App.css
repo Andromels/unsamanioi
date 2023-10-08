@@ -57,3 +57,10 @@
   margin: 0 70px;
   
 }
+
+.footer{
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  justify-content: space-between;
+}
