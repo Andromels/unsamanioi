@@ -63,7 +63,8 @@
 
 .footer{
   display: flex;
-  padding: 30px;
-  align-items: center;
+  padding: 100px;
+  
   justify-content: space-between;
+  text-align: center;
 }

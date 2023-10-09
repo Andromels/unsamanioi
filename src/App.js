@@ -6,20 +6,11 @@ import pic1 from './images/pic1.jpg'
 import pic2 from './images/pic1.jpg'
 import pic3 from './images/pic1.jpg'
 import mypic from './images/mypic.jpg'
+import Navbar from './component/navbar';
 function App() {
   return (
     <div className='app'>
-      <header className='navbar'>
-        <div className='logo'>
-          <h3>ANDROMEL RAMIREZ</h3>
-        </div>
-        <div className='links'>
-        <a href='#home'>Home</a>
-        <a href='#aboutus'>About Us</a>
-        <a href='#services'>Services</a>
-        <a href='#why'>Why</a>
-        </div>
-      </header>
+      <Navbar/>
       <section className='gallery'>
         <h1>PAST WORKS</h1>
         <p>"A fresh perspective for potential clients"
