@@ -5,6 +5,7 @@ import perfume3 from './images/perfume3.jpg'
 import pic1 from './images/pic1.jpg'
 import pic2 from './images/pic1.jpg'
 import pic3 from './images/pic1.jpg'
+import mypic from './images/mypic.jpg'
 function App() {
   return (
     <div className='app'>
@@ -32,7 +33,7 @@ function App() {
       <section className='sec2'> 
        <h1>RECENT WORKS</h1>
        <div className='images'>
-       <img src={pic1}/>
+       <img src={mypic}/>
        <img src={pic2}/>
        <img src={pic3}/>
        </div>
