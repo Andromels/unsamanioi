@@ -32,9 +32,10 @@ function App() {
       </section>
       <section className='sec2'> 
        <h1>RECENT WORKS</h1>
+       <p>This is me</p>
        <div className='images'>
-       <img src={mypic}/>
        <img src={pic2}/>
+       <img src={mypic}/>
        <img src={pic3}/>
        </div>
       </section>
