@@ -1,2 +1,0 @@
-# unsamanioi
-gikapoy nako ani
